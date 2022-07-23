@@ -9,3 +9,5 @@ Daniel Eduardo Chuc Ceballos
 Carlos David May Tun
 
 Gelmy Guadalupe Cumí Sánchez
+
+Jonathan Alonzo Ojeda Kumul -> GitHub username: JonathanAlonzo
