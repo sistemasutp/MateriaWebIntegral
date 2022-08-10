@@ -14,4 +14,4 @@ Jonathan Alonzo Ojeda Kumul -> GitHub username: JonathanAlonzo
 
 Jose Enrique Cauich Chi
 
-Rogelio De Jesus Pinto May
+
