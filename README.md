@@ -22,8 +22,7 @@ Edgar Manuel Cahun Martin
 =======
 Santiago Antonio Tun Mut
 =======
-<<<<<<< HEAD
-Manuel Rodrigo Chale Xool
+
 
 >>>>>>> c350c8626c546fc1000729988ea7ad70a5170aa9
 >>>>>>> 86ab4eacb8b7e5083ec04958c1c75b7cf781ea59
