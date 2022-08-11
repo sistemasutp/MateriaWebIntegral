@@ -14,6 +14,9 @@ Jonathan Alonzo Ojeda Kumul -> GitHub username: JonathanAlonzo
 
 Jose Enrique Cauich Chi
 
+Juan de la cruz che cahun
+
+
 
 <<<<<<< HEAD
 Edgar Manuel Cahun Martin 
