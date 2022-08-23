@@ -1,0 +1,20 @@
+.main-tables-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.bitcoin-img-container {
+    background-image: url(../assets/img/a.jpg);
+}
+
+.plans-container--slider{
+    justify-content: center;
+}
